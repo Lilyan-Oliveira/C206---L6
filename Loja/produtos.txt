@@ -1,0 +1,16 @@
+++ Produto ++
+Pipoca
+5.0
+Comida
+++ Produto ++
+Shampoo
+25.0
+Higiene
+++ Produto ++
+Cenoura
+0.5
+Comida
+++ Produto ++
+Pipoca
+5.0
+Comida
