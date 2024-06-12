@@ -1,0 +1,8 @@
+++ Carrinho ++
+Nome do Jogador: Lilyan
+Velocidade: 49
+Chassi: Breakout
+++ Carrinho ++
+Nome do Jogador: Leticia
+Velocidade: 30
+Chassi: Octane
